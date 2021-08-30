@@ -1,6 +1,6 @@
 {
-    "name": "ibudasov/php7-iptc-manager",
-    "description": "Allows to manipulate IPTC tags from PHP7.*",
+    "name": "quidage/php7-iptc-manager",
+    "description": "Allows to manipulate IPTC tags from PHP8.*",
     "type": "library",
     "license": "MIT",
     "autoload": {
