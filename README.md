@@ -1,4 +1,4 @@
-# [php7-iptc-manager](https://ibudasov.github.io/php7-iptc-manager/)
+# [php8-iptc-manager]
 
 [![CircleCI](https://circleci.com/gh/ibudasov/php7-iptc-manager.svg?style=svg)](https://circleci.com/gh/ibudasov/php7-iptc-manager)
 [![Maintainability](https://api.codeclimate.com/v1/badges/8a0f32e9d6ff3948e4d6/maintainability)](https://codeclimate.com/github/ibudasov/php7-iptc-manager/maintainability)
