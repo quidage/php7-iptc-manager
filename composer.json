@@ -19,12 +19,12 @@
     "require-dev": {
         "mockery/mockery": "^1.0",
         "friendsofphp/php-cs-fixer": "^2.9",
-        "phpunit/phpunit": "^7.0"
+        "phpunit/phpunit": "^8.0"
     },
     "authors": [
         {
             "name": "Igor Budasov, Christian Hansen",
-            "email": "igor.budasov@gmail.com, christian@herrhansen.com"
+            "email": "christian@herrhansen.com"
         }
     ],
     "scripts": {
