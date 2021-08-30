@@ -1,5 +1,5 @@
 {
-    "name": "quidage/php7-iptc-manager",
+    "name": "quidage/php8-iptc-manager",
     "description": "Allows to manipulate IPTC tags from PHP8.*",
     "type": "library",
     "license": "MIT",
