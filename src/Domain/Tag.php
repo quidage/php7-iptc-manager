@@ -41,23 +41,11 @@ class Tag
     const CAPTION_WRITER = '122';
 
     /**
-     * @var string which will be converted to int later
-     */
-    private $code;
-
-    /**
-     * @var string
-     */
-    private $value;
-
-    /**
      * @param string   $codeOfTag
      * @param string[] $valuesOfTag
      */
-    public function __construct(string $codeOfTag, array $valuesOfTag)
+    public function __construct(private string $codeOfTag, private array $valuesOfTag)
     {
-        $this->code = $codeOfTag;
-        $this->value = $valuesOfTag;
     }
 
     /**
