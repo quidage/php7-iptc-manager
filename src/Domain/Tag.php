@@ -40,25 +40,15 @@ class Tag
     const LOCAL_CAPTION = '121';
     const CAPTION_WRITER = '122';
 
-    /**
-     * @param string   $codeOfTag
-     * @param string[] $valuesOfTag
-     */
-    public function __construct(private string $codeOfTag, private array $valuesOfTag)
+    public function __construct(private string $code, private array $value)
     {
     }
 
-    /**
-     * @return string
-     */
     public function getCode(): string
     {
         return $this->code;
     }
 
-    /**
-     * @return string[]
-     */
     public function getValues(): array
     {
         return $this->value;
